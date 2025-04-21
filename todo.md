@@ -1,0 +1,11 @@
+- [ ] Linear Regression
+    - [ ] Theory
+        - [X] Problem formulation
+        - [X] Parameter estimation
+        - [X] MLE
+        - [ ] Overfitting
+        - [ ] MAP
+        - [ ] 
+
+- Bayesian Linear Regression
+    - [] Theory
